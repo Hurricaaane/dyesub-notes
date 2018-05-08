@@ -2,6 +2,14 @@
 
 Personal notes on dye sublimation processes
 
+Things to get:
+
+- A compatible object to dyesub on
+- Dye sublimation paper
+- A dye sublimation compatible printer
+- A dye sublimation compatible cartridge, usually a CISS kit
+- Dye sublimation ink
+- Proper software to print with advanced color profiles support and custom ICC profiles
 
 ## Dye sublimation paper
 
@@ -32,3 +40,10 @@ Dyesub paper has a specific side coated with chemicals, which is the face that n
 - Find out the plastic type before trying anything
   - ABS has a very low melting point, lower than the heat necessary for dyesub, never try dyesub on ABS ever
   - PBT might melt around 220 degrees Celsius, check the temperature of the heat press or heating element beforehand
+
+## Maintenance
+
+- Ink from a dyesub printer is subject to these aging effects
+  - Drying if the printer is not used often enough
+  - Evaporation
+  - Waste ink saturation

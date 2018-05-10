@@ -27,7 +27,10 @@ Test the ink before putting it in the cartridges.
   
 ## Testing the printer
 
-- Before installing any ink, use normal ink in order to get a hang on how color management in Photoshop works (ICC profiles)
+Before installing any ink, train yourself in using the printer with normal ink in order to get a hang on how color management in Photoshop works (ICC profiles), and how the printer driver works.
+
+Once the dyesub ink is installed, the colors will look completely different on paper and it becomes very difficult to figure out the print quality.
+
 - Always set the paper settings to photo quality in the printer settings
 - No matter what ICC setting is set to, and no matter what the paper is, when printing with dyesub ink, colors will appear washed out when printed
   - On dyesub paper, colors become brighter and more vivid after heating (dye turning into gas)

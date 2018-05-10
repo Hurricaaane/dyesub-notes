@@ -20,7 +20,7 @@ Dyesub paper has a specific side coated with chemicals, which is the face that n
 
 ## Dye sublimation ink
 
-Test the ink before putting it in the cartridges.
+Test the ink before putting it in the cartridges. Don't trust the labels of the bottles, check on your own if you have received proper ink that sublimates when heated.
 
 - If the ink come in bottles, put a droplet from each bottle onto the correct side of dyesub paper, and try to sublimate it onto polyester fabric
   - It might turn out that one of colors will not sublimate properly, especially the black ink

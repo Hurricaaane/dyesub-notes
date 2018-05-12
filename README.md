@@ -19,7 +19,7 @@ So it is important knowing how to print good pictures on traditional paper with 
 
 ## Ink and paper
 
-If your **dye sublimation ink** come in bottles, don't load them into your cartridges or continuous ink supply system unless you have tested each bottle individually by putting a droplet onto the correct side of a dye sublimation paper, and then attempting to sublimate it.
+If your **dye sublimation ink** come in bottles, don't load them into your cartridges or continuous ink supply system unless you have tested each bottle individually by putting a droplet onto the correct side of a dye sublimation paper, and then attempting to sublimate it on a testing medium, like polyester fabric.
 
 On a personal experience, I have received 4 bottles of each color, all labelled as heat transfer ink, but it turned out the black ink is not sublimation ink. It is unpleaseant to siphon all the black ink out of the CISS kit.
 

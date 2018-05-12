@@ -10,7 +10,7 @@ These differences show up with printer ink and printers themselves, and even mon
 
 This is even more important with dye sublimation ink. Traditional office printer inks are made for printing on office paper, and the paper will be read by a human. Dye sublimation ink is made to look good not when it is printed, but when it is sublimated onto a real object. Your pictures will look like crap on dye sublimation paper because it is not meant to be sitting on dye sublimation paper. **You will have no way to know if your picture looks good unless you sublimate it**.
 
-Color profiles lets us transform a picture into instructions on how to properly mix the specific inks so that when it is printed by a specific printer on a specific type of paper, it will look good. When experimenting with traditional ink, you will end up with things like this:
+Color profiles lets us transform a picture into instructions on how to properly balance the specific inks so that when it is printed by a specific printer on a specific type of paper, it will look good. When experimenting with traditional ink, you will end up with things like this:
 - washed out colors
 - too bright colors
 - two shades of the same color that look very different on screen will look identical when printed

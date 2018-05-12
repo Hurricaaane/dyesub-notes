@@ -15,7 +15,7 @@ Things to get:
 
 Dyesub paper has a specific side coated with chemicals, which is the face that needs to be printed on.
 
-- Print on the whiter side of the dye sublimation paper (less grain, smoother)
+- Print on the whiter side of the dye sublimation paper (the side that feels smoother to the touch, and looks less grainy when illuminated by a light source sideways)
 - When loading in the printer tray, double check which side the printer will print on
 
 ## Dye sublimation ink

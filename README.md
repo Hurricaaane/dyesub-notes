@@ -34,6 +34,7 @@ Once the dyesub ink is installed, the colors will look completely different on p
 - Always set the paper settings to photo quality in the printer settings
 - No matter what ICC setting is set to, and no matter what the paper is, when printing with dyesub ink, colors will appear washed out when printed
   - On dyesub paper, colors become brighter and more vivid after heating (dye turning into gas)
+- Remember to mirror the image
 
 ## Fabrics
 

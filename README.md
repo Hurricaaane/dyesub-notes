@@ -1,3 +1,38 @@
+# dyesub-notes-clean
+
+## Understand your printer and software
+
+In order to print dye sublimation illustrations correctly, you need to have a basic hang on **color management and print quality** at a software and hardware level. Therefore experiment with your printer with non-dye sublimation ink and regular office paper.
+
+In particular you need software that is able to manage color profiles. Even though most pictures are encoded with red, green and blue channels, printing is a different story. It's not just about conversion to cyan magenta yellow and black, all printers and dyes are different.
+
+To use a basic example, let's say you're an artist, and you are mixing blue and yellow paint to make green. Take two blues from two paint manufacturers that look the same, and in practive you will get two different blues. Same goes for yellow. So what kind of green will it produce? Does it produce the same colors when applied to each differnt types of canvas paper?
+
+These differences show up with printer ink and printers themselves, and even monitors because all liquid crystal displays are different, so are OLED displays. It is not possible to apply a simple mathematical formula to convert RGB to all CMYK, the physical medium is important.
+
+This is even more important with dye sublimation ink. Traditional office printer inks are made for printing on office paper, and the paper will be read by a human. Dye sublimation ink is made to look good not when it is printed, but when it is sublimated onto a real object. Your pictures will look like crap on dye sublimation paper because it is not meant to be sitting on dye sublimation paper. **You will have no way to know if your picture looks good unless you sublimate it**.
+
+Color profiles lets us transform a picture into instructions on how to properly mix the specific inks so that when it is printed by a specific printer on a specific type of paper, it will look good. When experimenting with traditional ink, you will end up with things like this:
+- washed out colors
+- too bright colors
+- two shades of the same color that look very different on screen will look identical when printed
+
+So it is important to print good pictures on traditional paper with traditional ink, before switching to dye sublimation ink. Experiment with your printer and software. Tweak printer settings, like paper type, which will affect print speed.
+
+## Ink and paper
+
+If your **dye sublimation ink** come in bottles, don't load them into your cartridges or continuous ink supply system unless you have tested each bottle individually by putting a droplet onto the correct side of a dye sublimation paper, and then attempting to sublimate it.
+
+On a personal experience, I have received 4 bottles of each color, all labelled as heat transfer ink, but it turned out the black ink is not sublimation ink. It is unpleaseant to siphon all the black ink out of the CISS kit.
+
+**Dye sublimation paper** has a specific side to print on which is coated with chemicals. It is the side that feels smoother to the touch, and looks less grainy when illuminated by a light source sideways. When loading it in the printer tray, double check which side the printer will print on.
+
+Also, remember to print your pictures mirrored.
+
+## Heat
+
+
+
 # dyesub-notes
 
 Personal notes on dye sublimation processes

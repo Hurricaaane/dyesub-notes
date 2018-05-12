@@ -2,9 +2,7 @@
 
 ## Understand your printer and software
 
-In order to print dye sublimation illustrations correctly, you need to have a basic hang on **color management and print quality** at a software and hardware level. Therefore experiment with your printer with non-dye sublimation ink and regular office paper.
-
-In particular you need software that is able to manage color profiles. Even though most pictures are encoded with red, green and blue channels, printing is a different story. It's not just about conversion to cyan magenta yellow and black, all printers and dyes are different.
+In order to print dye sublimation illustrations correctly, you need to have a basic hang on **color management and print quality** at a software and hardware level. You need software that is able to manage color profiles. Even though most pictures are encoded with red, green and blue channels, printing is a different story. It's not just about conversion to cyan magenta yellow and black, all printers and dyes are different.
 
 To use a basic example, let's say you're an artist, and you are mixing blue and yellow paint to make green. Take two blues from two paint manufacturers that look the same, and in practive you will get two different blues. Same goes for yellow. So what kind of green will it produce? Does it produce the same colors when applied to each differnt types of canvas paper?
 
@@ -17,7 +15,7 @@ Color profiles lets us transform a picture into instructions on how to properly 
 - too bright colors
 - two shades of the same color that look very different on screen will look identical when printed
 
-So it is important to print good pictures on traditional paper with traditional ink, before switching to dye sublimation ink. Experiment with your printer and software. Tweak printer settings, like paper type, which will affect print speed.
+So it is important knowing how to print good pictures on traditional paper with traditional ink, before switching to dye sublimation ink. Experiment with your printer and software. Tweak printer settings, like paper type, which will affect print speed.
 
 ## Ink and paper
 

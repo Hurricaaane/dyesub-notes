@@ -46,6 +46,13 @@ Once the dyesub ink is installed, the colors will look completely different on p
   - ABS has a very low melting point, lower than the heat necessary for dyesub, never try dyesub on ABS ever
   - PBT might melt around 220 degrees Celsius, check the temperature of the heat press or heating element beforehand
 
+## Applying the heat
+
+- As much as possible maximize physical pressure and minimize thickness separation between the heating element and the dyesub paper. If the subject being dyed is not flat, then find a way to both apply pressure and transfer heat to the subject being dyed. Not applying enough pressure or using different thicknesses will lead to differences in dye absorption
+- Experiment with different cooking durations. Overcooking can make black color turn brown
+- Moisture will cause unwanted spreading of the ink
+- After applying the heat, remove the paper firmly and quickly to avoid leaving a ghost image
+
 ## Maintenance
 
 - Ink from a dyesub printer is subject to these aging effects

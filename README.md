@@ -50,7 +50,7 @@ Dyesub paper has a specific side coated with chemicals, which is the face that n
 
 - Print on the whiter side of the dye sublimation paper (the side that feels smoother to the touch, and looks less grainy when illuminated by a light source sideways)
 - When loading in the printer tray, double check which side the printer will print on
-- Do not tight-fit the paper to the printed area. The ink will steam out of the paper, which will leave dye marks on areas that were not covered by the paper
+- Do not cut tight-fit the paper to the printed area, leave at least 5mm around the edges. The ink will steam out of the paper, which will leave dye marks on areas that were not covered by the paper
 
 ## Dye sublimation ink
 

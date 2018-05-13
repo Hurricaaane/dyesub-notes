@@ -25,7 +25,7 @@ On a personal experience, I have received 4 bottles of each color, all labelled 
 
 **Dye sublimation paper** has a specific side to print on which is coated with chemicals. It is the side that feels smoother to the touch, and looks less grainy when illuminated by a light source sideways. When loading it in the printer tray, double check which side the printer will print on.
 
-Also, remember to print your pictures mirrored.
+Also, remember to print your pictures mirrored, and if you are going to cut the paper, don't cut it tight fit as the ink may steam out and leave scortch marks on areas that were not covered by the paper; leave 5mm of paper at least around the edges.
 
 ## Heat
 

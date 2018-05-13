@@ -2,7 +2,7 @@
 
 ## Understand your printer and software
 
-In order to print dye sublimation illustrations correctly, you need to have a basic hang on **color management and print quality** at a software and hardware level. You need software that is able to manage color profiles. Even though most pictures are encoded with red, green and blue channels, printing is a different story. It's not just about conversion to cyan magenta yellow and black, all printers and dyes are different.
+<img align="right" src="img.jpg"> In order to print dye sublimation illustrations correctly, you need to have a basic hang on **color management and print quality** at a software and hardware level. You need software that is able to manage color profiles. Even though most pictures are encoded with red, green and blue channels, printing is a different story. It's not just about conversion to cyan magenta yellow and black, all printers and dyes are different.
 
 To use a basic example, let's say you're an artist, and you are mixing blue and yellow paint to make green. Take two blues from two paint manufacturers that look the same, and in practice you will get two different blues. Same goes for yellow. So what kind of green will it produce? Does it produce the same colors when applied to each differnt types of canvas paper?
 
